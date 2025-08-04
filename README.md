@@ -2,7 +2,9 @@
 AI Voice 是在 rdx x5 开发板基于 ROS2 的实时语音识别和对话，集成了 SenseVoice 语音识别模型和 LLaMA 大语言模型。该系统能够实时捕获音频输入，进行语音识别，并通过大语言模型生成智能回复。
 
 SenseVoice安装和使用参考链接： https://github.com/FunAudioLLM/SenseVoice
+
 llame模型参考文章：https://horizonrobotics.feishu.cn/docx/LQU9dYyjcoXJ9hxJdUYc2l4InEf
+
 TTS参考链接：https://developer.d-robotics.cc/rdk_doc/Robot_development/quick_demo/hobot_tts
 
 
